@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Multiplayer.Client.MpSettings">
+		<autoAcceptSteam>True</autoAcceptSteam>
+		<transparentChat>True</transparentChat>
+		<showDevInfo>True</showDevInfo>
+		<serverSettings>
+			<maxPlayers>500</maxPlayers>
+			<autosaveInterval>5</autosaveInterval>
+			<pauseOnAutosave>True</pauseOnAutosave>
+			<steam>True</steam>
+			<arbiter>False</arbiter>
+		</serverSettings>
+	</ModSettings>
+</SettingsBlock>
